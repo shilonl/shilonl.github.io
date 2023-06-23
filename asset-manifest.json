@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/shilonl.github.io/static/css/main.dbeac8e5.css",
-    "main.js": "/shilonl.github.io/static/js/main.812254ab.js",
+    "main.js": "/shilonl.github.io/static/js/main.596f7102.js",
     "static/js/443.b45cfc2f.chunk.js": "/shilonl.github.io/static/js/443.b45cfc2f.chunk.js",
     "static/js/738.2d8fb282.chunk.js": "/shilonl.github.io/static/js/738.2d8fb282.chunk.js",
     "static/js/3.991326f2.chunk.js": "/shilonl.github.io/static/js/3.991326f2.chunk.js",
@@ -31,7 +31,7 @@
     "static/media/resume-opensource.md": "/shilonl.github.io/static/media/resume-opensource.47c6a1341e62f8490e36.md",
     "static/media/resume-uci.md": "/shilonl.github.io/static/media/resume-uci.934476e3370f0c76558d.md",
     "main.dbeac8e5.css.map": "/shilonl.github.io/static/css/main.dbeac8e5.css.map",
-    "main.812254ab.js.map": "/shilonl.github.io/static/js/main.812254ab.js.map",
+    "main.596f7102.js.map": "/shilonl.github.io/static/js/main.596f7102.js.map",
     "443.b45cfc2f.chunk.js.map": "/shilonl.github.io/static/js/443.b45cfc2f.chunk.js.map",
     "738.2d8fb282.chunk.js.map": "/shilonl.github.io/static/js/738.2d8fb282.chunk.js.map",
     "3.991326f2.chunk.js.map": "/shilonl.github.io/static/js/3.991326f2.chunk.js.map",
@@ -40,6 +40,6 @@
   },
   "entrypoints": [
     "static/css/main.dbeac8e5.css",
-    "static/js/main.812254ab.js"
+    "static/js/main.596f7102.js"
   ]
 }
