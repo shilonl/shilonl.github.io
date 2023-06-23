@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dbeac8e5.css",
-    "main.js": "/static/js/main.1fa096b3.js",
+    "main.css": "/static/css/main.a6f72bf1.css",
+    "main.js": "/static/js/main.f6d50d0c.js",
     "static/js/443.b45cfc2f.chunk.js": "/static/js/443.b45cfc2f.chunk.js",
     "static/js/738.2d8fb282.chunk.js": "/static/js/738.2d8fb282.chunk.js",
     "static/js/3.991326f2.chunk.js": "/static/js/3.991326f2.chunk.js",
@@ -19,19 +19,23 @@
     "static/media/icon-design.svg": "/static/media/icon-design.6e94c007f825203c008441baf1638592.svg",
     "static/media/icon-photo.svg": "/static/media/icon-photo.704123cfbd1e30d61589530c3ab50475.svg",
     "static/media/icon-app.svg": "/static/media/icon-app.dcc012403679eb2a7de96bd1ae0c9441.svg",
+    "static/media/2021-05-27-GDB-Debug.md": "/static/media/2021-05-27-GDB-Debug.f9473bf9bbdeaf04db8d.md",
     "index.html": "/index.html",
-    "static/media/post.md": "/static/media/post.3f963e1f6ace36a466a8.md",
+    "static/media/2021-03-02-gh-sc.md": "/static/media/2021-03-02-gh-sc.1240b501e6e102133438.md",
     "static/media/aboutme.md": "/static/media/aboutme.5c672aba3e2296653c05.md",
+    "static/media/2021-03-04-gh-repo-down.md": "/static/media/2021-03-04-gh-repo-down.8be0e96985e26b792670.md",
     "static/media/resume-ra-sustech.md": "/static/media/resume-ra-sustech.569200b7736f133769e3.md",
     "static/media/resume-authentic8.md": "/static/media/resume-authentic8.339e56be80cdb45dcaf2.md",
     "static/media/resume-se-lkl.md": "/static/media/resume-se-lkl.bd57744f24c94d7ebf7c.md",
     "static/media/resume-reader-uci.md": "/static/media/resume-reader-uci.4cdfba49721649c68fbc.md",
+    "static/media/2021-05-11-emp-sty.md": "/static/media/2021-05-11-emp-sty.1f1bfbf7cad6df730a92.md",
     "static/media/resume-sustech.md": "/static/media/resume-sustech.07f6ad87527fc2cb6db7.md",
     "static/media/resume-ta-sustech.md": "/static/media/resume-ta-sustech.8d021b3706d876a01ea5.md",
+    "static/media/2023-02-22-ssh-login.md": "/static/media/2023-02-22-ssh-login.c3037452de7ecd53bccc.md",
     "static/media/resume-opensource.md": "/static/media/resume-opensource.47c6a1341e62f8490e36.md",
     "static/media/resume-uci.md": "/static/media/resume-uci.934476e3370f0c76558d.md",
-    "main.dbeac8e5.css.map": "/static/css/main.dbeac8e5.css.map",
-    "main.1fa096b3.js.map": "/static/js/main.1fa096b3.js.map",
+    "main.a6f72bf1.css.map": "/static/css/main.a6f72bf1.css.map",
+    "main.f6d50d0c.js.map": "/static/js/main.f6d50d0c.js.map",
     "443.b45cfc2f.chunk.js.map": "/static/js/443.b45cfc2f.chunk.js.map",
     "738.2d8fb282.chunk.js.map": "/static/js/738.2d8fb282.chunk.js.map",
     "3.991326f2.chunk.js.map": "/static/js/3.991326f2.chunk.js.map",
@@ -39,7 +43,7 @@
     "856.435cf8fb.chunk.js.map": "/static/js/856.435cf8fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbeac8e5.css",
-    "static/js/main.1fa096b3.js"
+    "static/css/main.a6f72bf1.css",
+    "static/js/main.f6d50d0c.js"
   ]
 }
